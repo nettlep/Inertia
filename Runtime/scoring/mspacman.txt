@@ -1,0 +1,19 @@
+Dot : 10 points
+
+Power pill (energizer) : 50 points
+
+Ghosts : 200, 400, 800, 1600 points
+
+Cherry : 100 points
+
+Strawberry : 200 points
+
+Peach : 500 points
+
+Pretzel : 700 points
+
+Apple : 1000 points
+
+Pear : 2000 points
+
+Banana : 5000 points

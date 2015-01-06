@@ -1,0 +1,21 @@
+Killing enemies :
+
+Bounder (Red) : 500 points
+
+Hunter (Silver/Gray) : 750 points
+
+Shadow Lord (Blue) : 1,000 points
+
+Pterodactyl : 1,000 points
+
+Getting killed : 50 points
+
+Picking up eggs or hatchlings : 250, 500, 750, or 1,000 points (progressive).  The progression starts again when the player is killed or starts the next wave.
+
+Picking up an egg before it touches the ground : 500 points
+
+Not dying during a Survival Wave : 3,000 points
+
+If neither player kills the other during a Team Wave (Two players only) : 3,000 points for each player.
+
+The first player who kills the other player during a Gladiator Wave (Two Players only) : 3,000 points

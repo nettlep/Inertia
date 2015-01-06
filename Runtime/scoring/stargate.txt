@@ -1,0 +1,38 @@
+Lander : 150 points
+Mutant : 150 points
+Bomber : 250 points
+Pod : 1000 points
+Baiter : 200 points
+Swarmer : 150 points
+Firebomber : 250 points
+Fireball : 100 points
+Dynamo : 200 points
+Space Hum : 100 points
+Yllabian Space Guppy : 200 points
+Phred : 200 points
+Big Red : 200 points
+Munchies : 50 points
+
+Getting hit by an enemy bullet : 25 points
+
+Destroying a Pod with a Smart Bomb will award either 1,450 or 1,600 points.
+
+Rescuing abducted Humanoids gives increasing bonuses if they are rescued consecutively without being immediately returned to the ground.
+
+500 points for saving the 1st Humanoid from a Lander, 1,000 points for saving the 2nd, 1,500 points for the 3rd, and 2,000 points for the 4th and higher.
+
+500 points for each Humanoid put back into the planet's surface.
+
+250 points for a Humanoid landing into the ground safely on his own.
+
+A special undocumented bonus can be gained by dropping off a humanoid as the last event in a wave. There are 2 ways to do this. One way requires you to have killed everything off in the wave except for one lander. Wait for the lander to pick up a humanoid. Shoot the lander and catch the humanoid JUST before it hits the ground. The other way is to deposit a humanoid that your ship is carrying at the exact moment when you kill the last enemy of the wave. Either way, when this is done properly the screen will flash several times and you will be awarded 2,000 points.
+
+* Bonus at the end of each wave
+
+Wave 1 : Humanoids Left X 100.
+Wave 2 : Humanoids Left X 200.
+Wave 3 : Humanoids Left X 300.
+Wave 4 : Humanoids Left X 400.
+Wave 5 and all Yllabian Dogfight waves : 2,500 points.
+Wave 6 and above : Humaniods Left X 500.
+Warp : Humanoids Left X 2,000.

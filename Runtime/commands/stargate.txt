@@ -1,0 +1,77 @@
+[Controls]
+
+Down   - Lower Ship
+Up     - Raise Ship
+1      - Fire
+2      - Thrust
+3      - Smart Bomb
+4      - Reverse
+5      - Inviso
+6      - Hyperspace
+
+[Elements]
+
+Defender - This the ship that you control and fly across the landscape as you remove the attackers from the sky and rescue any human that is being kidnapped.
+
+Lander - These green creatures float over the land in search of humans to abduct.  When they lock in on one, they descend to the ground, pick up the human, and attempt to escape with it at the top of the screen.
+
+Mutant - This is the result of a Lander who has successfully abducted a human.  Their only goal is your destruction.
+
+Baiter - When you spend too long in any stage, Baiters begin to appear and hunt you down.
+
+Bomber - These ships mindlessly fly through the sky and leave mines behind them which are harmful to your ship.
+
+Pod - These ships fly about and fire at you. When they are shot, they immediately break apart in to several Swarmers.
+
+Swarmers - These are very fast and small vessels that appear when a Pod is destroyed. They attempt to ram your ship or shoot it down.
+
+Firebomber - Randomly moving spinning fire objects that shoot fireballs at you periodically.  They will avoid your altitude in an effort to avoid getting shot.
+
+Yllabian Space Guppy - Slower moving ships than Baiters, but much smarter and tend to travel in swarms.
+
+Dynamo - Randomly moving crystaline objects that fire Hums at you which slowly track your ship down.
+
+Phred, Big Red, and Munchies - Chomping objects that quickly whip around your ship like Baiters.
+
+Stargate - A tear in space which you can fly through.  If there are no humans in danger, you will reappear on the opposite side of the planet.  If a human is being captured by a lander, you will be warped to one of the humans in distress.
+
+Humans - At the start of the game, and every fifth wave, you begin with 10 humans walking among the mountainous regions of the planet, helpless watching the battle scene in the sky and getting abducted by Landers.
+
+[Gameplay]
+
+* The goal of each stage is to clear the entire area of enemies and defend as many of the humans on the ground as possible.  When you successfully clear an area, you will be awarded bonus points in the amount of 100 for every human alive multiplied by the wave, with a maximum multiple of 5.
+
+* You will lose one life for running in to any alien or any of their bullets.  At the default settings, you begin the game with two extra lives, three smart bombs, and three units of Inviso.  You will earn one extra life, one more smart bomb, and one unit of Inviso for every 10000 points that you receive.
+
+* In addition to flying and firing, you ship also has smart bombs, hyperspace, and Inviso capability.  By pressing the smart bomb button, you instantly destroy every enemy on the screen.  Pressing hyperspace causes your ship to warp to a random location around the world. It is possible to be destroyed when coming out of hyperspace so use it conservatively.  By pressing and holding the Inviso button, you will be cloaked in a shield that protects you from every attack.  It slowly drains as you hold it down, until you deplete your supply.
+
+* No matter where you are, you can track the action across the world with the scanner at the top of the screen.  As you fly left and right, the action on the screen is always at the center of the scanner.  The scanner also reports information now, including when all of the Landers have been defeated and a timer for when the Pods will release Swarmers of their own accord.
+
+* Landers will slowly drop from the sky to the ground in search of a human to abduct.  When it finds one, it stops moving forward and drops down to tractor beam the human off of the ground.  At this point you will hear the human scream, signaling you to find it and save it.  You must shoot the Lander and not the human.  If you hit the Lander, the human will begin free falling to the ground.  You must swoop in and collect it before it hits the ground and dies.  At that point you can simply fly down to the ground to deposit the human for more points.  If the Lander is destroyed only a short distance from the ground, the human can survive the fall.
+
+* If a Lander succeeds in abducting a human and dragging it to the top of the screen, the Lander and the human fuse in to a Mutant. The Mutants simply hunt you down and try to destroy your ship.  If EVERY human is abducted by Landers, the world goes in to apocolypse phase where all landers become mutants.  This will continue until the human count is reset on every 5th level.
+
+* Stargate has bonus levels every 5th level. On every level ending with 5, you will be in an Yllabian Dogfight and will face a round full of Yllabian Space Guppies.  On every level ending with 0, you will be in a Firebomber Showdown.  You will receive a 2500 point bonus for surviving these rounds.
+
+* The stargate should be used to your strategic advantage whenever you hear a human being captured and you are too far away to fly to its rescue in time.  If you happen to enter the Stargate with 4 or more humans before round 10, you will warp 3 levels.
+
+* The rest of the enemies have their own distinct behaviors.  Learn them to the best of your ability in order to eliminate them quickly.  Never spend too long in one place or facing one enemy as this will attract more enemies to your location.
+
+[Scoring]
+
+Munchies                                    50
+Fireball                                   100
+Space Hum                                  100
+Lander                                     150
+Mutant                                     150
+Swarmer                                    150
+Baiter                                     200
+Yllabian Space Guppy                       200
+Dynamo                                     200
+Phred                                      200
+Big Red                                    200
+Bomber                                     250
+Firebomber                                 250
+Pod                                       1000
+Rescued Human                              500
+Returned Human                             500

@@ -1,0 +1,58 @@
+[Controls]
+
+(up arrow) - Direct Ms. Pac-Man up
+(left arrow) - Direct Ms. Pac-Man left
+(press forward) - Direct Ms. Pac-Man right
+(down arrow) - Direct Ms. Pac-Man down
+
+[Elements]
+
+Ms. Pac-Man: The partner of one of the most widely recognized video game characters in history.  To distinguish her from the original, she has a bow, eye shadow, and a birth mark.
+
+Blinky: The red ghost which follows you more closely than any of the other ghosts.
+
+Pinky: The pink ghost tries to second guess which way you will go and trap you.
+
+Inky: The aqua ghost will often run away if he is charged at by Ms. Pac-Man
+
+Sue: The orange ghost who does her own thing in the maze.
+
+Power Pills: The large energizer dots in that start in the four corners of the maze that allow the player to temporarily chase and eat the ghosts until they begin to flash and turn back to normal.
+
+Bonuses: The prizes that bounce in to the maze from one of the tunnels, bounce around the ghost pen, and head out through another tunnel if you don't catch it in time.  Check Scoring for a complete list.
+
+Tunnel: By going through one end of the tunnels, the player can cross over to the other side of the screen.  Any ghost who chases the player in to the tunnel will move at half speed.  Some boards feature more than one tunnel.
+
+[Gameplay]
+
+* The goal is simple: eat all of the dots on the screen, and avoid getting caught by the four ghosts. There are four different mazes in total.
+
+* Ms. Pac-Man loses one life when a ghost catches her.  At the default setting you start with two extra lives and you will get one extra life for reaching 10000 points.
+
+* Four Power Pills are on every screen and allow the player to turn the tables on the ghosts and eat them for a short time.  When the ghosts begin to flash, time is running out and they will switch back so beware.
+
+* The Tunnels are a great way to put some space between you and any ghosts that are on you tail since they can only move half as fast as you when they are in it.
+
+* Each level is indicated by a bonus item, which appear twice per level and can be eaten if caught for bonus points.  The higher the level, the more points they are worth, but the ghosts will move faster, and the time they remain blue for becomes shorter.
+
+* The last bonus item is the banana on level 7.  After Level 7, the bonus item that appears will be random.
+
+* In Ms. Pac-Man the ghosts do not follow as predictable behavior as they do in Pac-Man.  Therefore you can not rely on any one set of patterns to get you safely through the game, making Ms. Pac-Man more challenging than her predacessor.
+
+* You are treated to an entertaining intermission after the 2nd, 5th, and 9th boards and every 4th board thereafter depicting the flourishing romance between Pac-Man and Ms. Pac-Man and their first child.
+
+[Scoring]
+
+Dots:             10
+Power Pills:      50
+1st Blue Ghost:  200
+2nd Blue Ghost:  400
+3rd Blue Ghost:  800
+4th Blue Ghost: 1600
+Cherry:          100
+Strawberry:      200
+Peach:           500
+Pretzel:         700
+Apple:          1000
+Pear:           2000
+Banana:         5000

@@ -1,0 +1,65 @@
+[Controls]
+
+(left arrow) - Move Mario left
+(press forward) - Move Mario right
+(up arrow) - Mario climbs up a ladder
+(down arrow) - Mario climbs down a ladder
+A - Jump
+
+[Elements]
+
+Mario: The one and only Mario who will go on to become one of the biggest video game stars of all time.  This is his debut.  In this game, he is thought to be a carpenter instead of a plumber.
+
+Donkey Kong: The most well known video game monkey.  Donkey Kong has kidnapped Mario's girlfriend and carried her up to the top of the construction site that Mario is working at.
+
+Pauline: Mario's girlfriend and damsel in distress.  She is stuck at the top of each screen awaiting rescue from the clutches of Donkey Kong.
+
+Hammer: Except for the elevator stage, two hammers can be found on each stage.  Jump to grab the hammer and use it to smash nearby dangers for points.  It only lasts for a short time and Mario can not climb ladders while he is holding the hammer.
+
+Barrel: Donkey Kong throws these at Mario on the ramp stage.  Many of them roll down the ramps and randomly drop down ladders that they pass.  Sometimes Kong throws them directly down the building.
+
+Beams: These are the blue barrels that Kong throws.  The only difference between them barrels is they will turn in to fireballs when they reach the burning can of oil at the bottom.
+
+Fireballs: These appear on every stage but the rivet stage.  They move about randomly and can be jumped, but it's dangerous to try because they change directions frequently.
+
+Firefox: The fire enemies that roam around the rivet stage.  They are even harder to jump over and they seem to track Mario a little more closely.
+
+Springese: These bounce along the roof of the elevator stage before falling down to the bottom of the screen creating a dangerous but predictable obstacle to avoid.
+
+Cement Tub: The tubs passively travel along the conveyer belt and are harmful to touch.  The only danger they pose is when the conver belt suddenly changes directions.
+
+Prizes: Some of Pauline's items liter the construction site and can be retrieved by Mario for bonus points.
+
+[Gameplay]
+
+* There are four different stages in this game: the Ramp stage, the Conveyer Belt stage, the Elevator stage, and the Rivet stage.  The goal in all stages but the Rivet stage is to reach Pauline in an attempt to rescue her from Donkey Kong.  The goal of the Rivet stage is to unplug all of the rivets that hold the beams together, causing Donkey Kong to fall and Pauline to be rescued.
+
+* Mario's best defense is his ability to jump.  He can jump straight up or he can jump across while running.  Mario stands a better chance of jumping over something successfully if he jumps while running.  Mario can jump over items as well as small gaps. Fireballs and Firefoxes can be jumped, but it's dangerous to try.
+
+* Mario dies when he comes in contact with a Barrel, Beam, Fireball, Firefox, Springese, or Cement Tub.  He will die if he falls a greater distance than his height.  And he will also die if the timer in the Bonus window drops to zero.  At the default settings, Mario starts with two extra lives and earns one extra life at 7000 points.
+
+* When Mario is beneath a hammer, he may jump up to pick it up and begin hitting anything that poses a threat to him.  He can not climb up or down a ladder until the hammer disappears, and be aware that it is still possible for Mario to die if he gets hit by something that slips past the hammer.
+
+* On the Ramp stage, the broken ladders can not be completely crossed, but they can be used to avoid getting hit by barrels.
+
+* On the Conveyer belt stage, Mario must avoid the Cement Tubs. He will run twice as fast if he runs in the same direction as the conveyer belt and half as fast if he runs against it.  The final ladders to Pauline rise and fall and Mario can only reach the top when the ladders are fully extended. Either ladder can be used.
+
+* On the Elevator stage, you must use the elevators to traverse the stage.  You may ride them freely but Mario will die if he reaches the top or bottom without getting off.  At the top of the screen, Mario must position himself at the points where the Springese are at the peak of their jump in order to safely reach Pauline.
+
+* On the Rivet stage, you must pull out all 8 rivets in the stage, either by running or jumping over them.  Once a rivet is pulled, you must be sure to jump over the gap left behind or Mario will fall to his death at any height.  The Firefoxes can not cross the gaps. Once all 8 rivets have been pulled, Donkey Kong will fall and Pauline will be rescued and the game will start over on the Ramp stage at a higher difficulty.
+
+* In the Japanese version, the order of the four stages remains constant.  In the US version, the order of the stages varies from level to level, but they always start with the Ramp and end with the Rivets.
+
+[Scoring]
+
+Jump 1  Barrel /Beam            100
+Jump 2  Barrels/Beams           300
+Jump 3  Barrels/Beams           500
+Jump 4+ Barrels/Beams           800
+Jump Fireball or Firefox        100
+Hammer a Barrel                 300
+Hammer a Beam                   500
+Hammer a Fireball or Firefox    500
+Prizes in Level 1               300
+Prizes in Level 2               500
+Prizes in Level 3+              800

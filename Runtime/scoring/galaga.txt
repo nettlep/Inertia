@@ -1,0 +1,23 @@
+Bee (Blue/yellow bug ship) : 50 points in formation or 80 points in flight.
+
+Butterfly (Red/white bug ship) : 80 points in formation or 160 points in flight.
+
+Boss Galaga : 150 points in formation or 400 points in flight.
+
+Boss Galaga : 800 points in flight with 1 wingman.
+
+Boss Galaga : 1,600 points in flight with 2 wingmen.
+
+Scorpions : 160 points each, 1000 points for destroying all 3.
+
+Bosconian ships : 160 points each, 2000 points for destroying all 3.
+
+Galaxian Flagships : 160 points each, 3000 points for destroying all 3.
+
+Captured fighter : 500 points in formation or 1000 points in flight.
+
+Challenging Stage : 100 points per ship destroyed if less than 40.
+
+Challenging Stage : 10,000 points for destroying all 40 ships (perfect).
+
+Challenging Stage : 1000 points on the first 2 Challenging Stages, 1500 points on the 3rd and 4th, 2000 points on the 5th and 6th, and 3000 points from the 7th onward for destroying a complete formation of 8 ships.

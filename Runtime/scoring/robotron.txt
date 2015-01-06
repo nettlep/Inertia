@@ -1,0 +1,21 @@
+G.R.U.N.T. (GROUND ROVING UNIT NETWORK TERMINATOR) - The red robots : 100 points
+
+SPHEROID - The red circles that travel around the game screen : 1,000 points
+
+QUARK - The white boxes with an 'X' in the middle that travel around the game screen : 1,000 points
+
+ENFORCER - The blue, 'Robby the Robot' looking robots : 150 points
+
+SPARKS (Shot by ENFORCERS) : 25 points
+
+TANK - The red robots that have tracked wheels underneath them hence making them look like tanks : 200 points
+
+TANK SHELLS : 50 points
+
+BRAIN - The robots that are blue and have really large heads : 500 points
+
+CRUISE MISSILES (shot by BRAINS) :  25 points
+
+PROG (reprogrammed humans) : 100 points
+
+FAMILY MEMBERS : 1,000 points for the first human rescued, progressing to 2,000, 3,000, 4,000, then 5,000 for every human rescued after that. The scoring starts over when the player is killed or finishes a wave.

@@ -1,0 +1,13 @@
+Jump over one opponent : 100 points
+
+Jump over two+ opponents : 300 points
+
+Push key in lock : 200 points
+
+Pick a fruit : 400 points
+
+Hit 1st opponent with fruit : 800 points
+
+Hit 2nd opponent with fruit : 1200 points
+
+Hit 3rd+ opponent with fruit : 1600 points

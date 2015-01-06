@@ -1,0 +1,59 @@
+[Controls]
+
+(up arrow) - Direct Jr. Pac-Man up
+(left arrow) - Direct Jr. Pac-Man left
+(press forward) - Direct Jr. Pac-Man right
+(down arrow) - Direct Jr. Pac-Man down
+
+[Elements]
+
+Jr. Pac-Man: The offspring of two of the most widely recognized video game characters in history.  He wears a stylish propeller beanie.
+
+Blinky: The red ghost which follows you more closely than any of the other ghosts.
+
+Pinky: The pink ghost tries to second guess which way you will go and trap you.
+
+Inky: The aqua ghost will often run away if he is charged at by Ms. Pac-Man
+
+Tim: The orange ghost who does his own thing in the maze.
+
+Power Pills: The large energizer dots in that start in the four corners of the maze, and two extra pills on either side of the ghost pen, that allow the player to temporarily chase and eat the ghosts until they begin to flash and turn back to normal.
+
+Bonuses: The prizes appear over the ghost pen and begin searching for a corner Power Pill.  If you don't catch it before it collides with one of the corner pills, they will both explode and disappear from the screen.  Along the way, any regular dot that they run over becomes a Big Dot.  Check Scoring for a complete list.
+
+Big Dot: These are ordinary dots that have been crossed over by the bonuses.  They are worth more points than normal dots, but they slow Jr. Pac-Man's speed significantly making it easier for the ghosts to catch up with him.
+
+[Gameplay]
+
+* The goal is simple: eat all of the dots on the screen, and avoid getting caught by the four ghosts. There are seven different mazes in total and they are the size of three normal Pac-Man mazes.  As a result, the screen scrolls from side to side to keep Jr. Pac-Man centered on the screen.
+
+* Jr. Pac-Man loses one life when a ghost catches her.  At the default setting you start with two extra lives and you will get one extra life for reaching 10000 points.
+
+* Six Power Pills are on every screen and allow the player to turn the tables on the ghosts and eat them for a short time.  When the ghosts begin to flash, time is running out and they will switch back so beware.
+
+* Since the screens are so much larger, there are no more tunnels. It's relatively easy to put some distance between you and the ghosts if you really need a break by running over to the other side of the maze.
+
+* Each level is indicated by a bonus item, which appear twice per level and can be eaten if caught for bonus points.  The higher the level, the more points they are worth, but the ghosts will move faster, and the time they remain blue for becomes shorter.
+
+* The bonus items in Jr. Pac-Man roam the maze in search of one of the four corner power pills.  If they reach one, they will explode and you will no longer to eat either of them.  This is not the case for the two extra power pills on either side of the ghost pen. Additionally, any of the dots that the bonus items pass over become Big Dots which are worth more points, but slow Jr. Pac-Man down whenever he eats them.
+
+* In Jr. Pac-Man the ghosts do not follow as predictable behavior as they do in Pac-Man.  Additionally, the ghosts are programmed to remain on the screen, so if they are ever forced off the screen, they can instantly change directions in order to get back on.
+
+* You are treated to an entertain- ing intermission after the 1st, 3rd, and 6th boards and every 3rd board thereafter, which depict the forbidden love between Jr. Pac-Man and a little red ghost named Yum-Yum.
+
+[Scoring]
+
+Dots:             10
+Big Dots:         50
+Power Pills:      50
+1st Blue Ghost:  200
+2nd Blue Ghost:  400
+3rd Blue Ghost:  800
+4th Blue Ghost: 1600
+Tricycle:        100
+Kite:            200
+Drum:            500
+Balloon:         700
+Train:          1000
+Kitty:          2000
+Root Beer:      5000

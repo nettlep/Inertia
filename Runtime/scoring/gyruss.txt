@@ -1,0 +1,11 @@
+Shooting a ship : 50, 100 or 150 points.
+
+Destroying a whole formation of enemy ships before the next wave attacks : 1,000, 1,500, 2,000, 2,500 points.
+
+Bonus for clearing a sector (having not destroyed a whole formation) : 1,000 points.
+
+Shooting the three glowing spheres : 1,000, 1,500, 2,000 points.
+
+Bonus for shooting each ship on the chance stage : 100 points.
+
+Bonus for shooting all 40 ships on the chance stage : 10,000 points.

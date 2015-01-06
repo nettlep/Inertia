@@ -1,0 +1,38 @@
+[Controls]
+
+(left arrow) - Move cannon left
+(press forward) - Move cannon right
+A - Fire cannon
+
+[Elements]
+
+Cannon: This is you, the player, as you guide the cannon back and forth across the bottom of the screen firing up at the invaders.
+
+Shields: Every stage starts out with four shields that can absorb a number of shots.  Each shot wears a hole in the shield, and if the invaders are allowed the reach the shields, they will wipe the shields away.
+
+Invaders: At the start of each stage, there are five rows of eleven invaders.  There are three different types ranging from large on the bottom rows to small at the top.  The smaller the invader, the more points they are worth.  They fire shots down at the player.
+
+UFO: Periodically, a UFO will fly across the top of the screen.  It can be shot for a varying amount of bonus points before it flies out through the other side of the screen.
+
+[Gameplay]
+
+* Your goal is to eliminate every invader in order to advance to the next stage.  There are 55 invaders per stage and they will begin one row lower at each stage.
+
+* In order to eliminate an invader, you must fire a shot that makes contact with one of them.  When the number of invaders is reduced, the speed at which the invaders cross the screen increases.
+
+* As the invaders cross the screen, when one of the invaders on the far sides hit the end of the screen, the entire force will drop down one row and reverse direction.
+
+* You will lose one cannon if you are hit by one of the invaders shots.  The game will end if you lose all of your cannons, or if any one invader is allowed to touch the ground.  At the default settings you begin the game with two extra cannons and you can earn one extra cannon at 1500 points
+
+* You begin each stage with four shields.  Each shield will absorb shots from you or the invaders, but each shot will wear away at the shield.  A popular strategy is to fire up through the middle of the shield and blast away at the invaders in relative safety.  But beware, if your shots can go through the shield, so can the invader's.
+
+* You may only have one shot in the air at any time.  If your shot collides with an invader's shot, they will cancel each other out.
+
+* Occasionally a UFO will appear and fly across the top of the screen.  If you have a chance to fire at it and you hit, you will be awarded a random number of bonus points.  Don't put yourself in danger going for the points.
+
+[Scoring]
+
+Large Invader          10
+Medium Invader         20
+Small Invader          30
+UFO             50 to 300

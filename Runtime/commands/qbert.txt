@@ -1,0 +1,50 @@
+[Controls]
+
+(up arrow) - Direct Q*Bert up right
+(left arrow) - Direct Q*Bert up left
+(press forward) - Direct Q*Bert down right
+(down arrow) - Direct Q*Bert down left
+
+* This is the default setting in MAME.  You don't need to press your controller in diagonal directions to move Q*Bert unless you intentionally remap the controls.
+
+[Elements]
+
+Q*Bert: The orange foul mouthed hero with the huge nose that you guide through each pyramid.
+
+Red Balls: These mindless red balls start near the top of the pyramid fall down to the bottom moving to the left or right randomly.  Their touch is deadly to Q*Bert.
+
+Purple Balls: These move just like the Red Balls, but they are in fact Coily eggs.  When they reach the bottom of the pyramid, they sit for a few moments until they hatch in to...
+
+Coily: The purple snake that is Q*Bert's most deadly nemesis.  Once he hatches from a Purple Ball, he begins to track Q*Bert down.  He can be tricked in to jumping off the pyramid if he is close to you when you jump on to a flying disc.
+
+Ugg & Wrong Way: These purple creatures have a slightly different sense of gravity.  They start at either bottom corner of the pyramid and work their way across.  They don't actively seek Q*Bert out, but they are deadly because they are unpredictable.
+
+Slick & Sam: The two green brothers are not a threat to Q*Bert, just a nuisance.  They like to jump on squares and undo the hard work that Q*Bert has done.  Not only is it best to stop them as soon as possible, you will also receive bonus points for doing so.
+
+Green Balls: These slightly smaller Green Balls are Q*Berts powerful tool. Catching one will stop time for a little while and give Q*Bert a chance to work on the pyramid in complete safety.
+
+Flying Disc: Q*Bert's last resort for getting hit or caught by Coily, Q*Bert can jump on to any available flying disc around the pyramid and be carried back to the top of the pyramid. If you lure Coily over the edge of the pyramid, not only will he plummet to his death, the pyramid will be cleared of all enemies.
+
+[Gameplay]
+
+* The goal of each stage in each level is to turn every cube top to the destination color.  The first five levels have a different progression of reaching the destination color.  Some involve an intermediate color change. Some do not lock the color to the destination color, causing you to repeat your efforts.
+
+* Q*Bert loses one life when he touches any red or purple enemy, at which point, Q*Bert will utter his famous explicatives.  He will also lose a life if you force him to jump off of the pyramid.  At the default setting you start with two extra lives and you will get an extra life for reaching 8000 points and every additional 14000 points.
+
+* From the start of the game, Red Balls and a Purple Ball will fall from the sky down to the second level of the pyramid.  A shadow will appear to signify which cube they will fall on.   Once a Purple Ball reaches the bottom and hatches in to a Coily, Coily starts tracking you down.  If you lure Coily to the edge of the pyramid before you jump on to a flying disc, Coily will jump to his death, and the stage will be clear of all enemies.  If Coily does not jump off, all of the enemies will remain.
+
+* Anything green is safe to touch including the nuisance twins, Slick and Sam.  Slick and Sam will undo the color of the cube tops that they jump on by one or two steps depending on the level.  The Green Balls are worth going after as they award you a sizeable chance to change some cube colors uninterrupted.
+
+* Ugg and Wrong Way, along with the Green Ball, begin appearing on Level 1 Stage 3.  Ugg and Wrong Way have distinct sound effects which announce their arrival.  Starting with Level 2, some stages may contain more than two flying discs.
+
+[Scoring]
+
+Cube to intermediate color          15
+Cube to destination color           25
+Unused Disc bonus                   50
+Catch the Green Ball               100
+Catch Slick/Sam                    300
+Lure Coily off pyramid             500
+
+Completion Bonus     750 + 250 x level
+                    up to 5000 maximum

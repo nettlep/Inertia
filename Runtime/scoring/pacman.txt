@@ -1,0 +1,21 @@
+Dot : 10 points.
+
+Power pill (energizer) : 50 points.
+
+Ghosts : 200, 400, 800, 1600 points.
+
+Cherry : 100 points.
+
+Strawberry : 300 points.
+
+Peach : 500 points.
+
+Apple : 700 points.
+
+Pineapple : 1000 points.
+
+Galaxian : 2000 points.
+
+Bell : 3000 points.
+
+Key : 5000 points.

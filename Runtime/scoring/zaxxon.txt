@@ -1,0 +1,21 @@
+Gun Implacements (Green and Gray) : 200 or 500 points (random)
+
+Fuel Tank : 300 points
+
+Radar Tower : 1000 points
+
+Missile (Ground-to-Air) : 150 points
+
+Missile (Air-to-Air) : 200 points
+
+Fighters (on runway) : 50 points
+
+Fighters (in air) : 100 points + (50 points/level after level 2)
+
+Zaxxon (destroyed with missile in launcher) : 1000 points
+
+Zaxxon (destroying launched missile) : 200 points
+
+Destroying all planes in space : 1000 points
+
+Satellite : 300 points

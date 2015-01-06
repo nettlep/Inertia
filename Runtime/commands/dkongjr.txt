@@ -1,0 +1,55 @@
+[Controls]
+
+(left arrow) - Move Junior left
+(press forward) - Move Junior right
+(up arrow) - Junior climbs up vines
+(down arrow) - Junior climbs down vines
+A - Jump
+
+[Elements]
+
+Donkey Kong Jr: The baby ape in the white unitard with a big J printed on the front, this is the son of Donkey Kong and he must rescue his father from Mario's cage.
+
+Mario: Donkey Kong Jr. is quite possibly the ONLY game in Mario's long history where he is the enemy.
+
+Donkey Kong: Poor DK was captured by Mario after the events portrayed in Donkey Kong.  Now he must help- lessly watch as his son comes to the rescue.
+
+Snap Jaws: These mechanical mouths must be avoided.  Blue jaws will drop down a vine and continue to fall off the screen, while red jaws will climb back up a vine and pose a more permanent threat.
+
+Nitpickers: There are two types of birds in the game.  The skinny kind appears in the Springboard stage and attempts to drop eggs on Junior as they fly around the top branch. The fat kind appears on the Cage stage and weaves back and forth in an attempt to hinder Junior's chances at rescuing his father.
+
+Sparks: Volts of electricity that patrol Mario's Hideout.  The red variety follows the loop that they begin on while the blue version follows the vertical strips from one level to the next as they drop to the bottom of the screen.
+
+Fruit: Junior will find various pieces of fruit scattered throughout each stage that he will pluck when he touches them.  The fruit will fall and take out any enemy in it's path until it reaches the bottom of the screen.  They are one of the best sources for bonus points.
+
+Keys: On the cage stage, Junior must push 6 of these up a chain in to the lock positioned at the top of the stage.  When he does, papa will be set free.
+
+[Gameplay]
+
+* There are four stages in this game: the Vines stage, the Springboard stage, Mario's Hideout, and the Cage stage.  The goal of every stage except the Cage stage is to guide Junior to the top of the screen in an attempt to rescue his father.  On the Cage stage, Junior must push 6 keys in to the locks that keep Donkey Kong caged.
+
+* Junior can run left or right and he can maneuver along vines and chains.  He can grab a single vine or chain, but if there is another in reaching distance, he can hang on to two at one time.  When climbing up a vine or chain, he moves faster holding on to two. When dropping down, he is faster holding on to only one.
+
+* Junior can also jump in order to reach vines which are off the ground or to reach distant platforms.  He can jump straight up or jump across while running.  He can also jump over enemies or to pluck fruit that are positioned overhead.
+
+* Junior dies when he comes in to contact with a Snap Jaw, a Nitpicker, or a Spark.  He will also die if he falls to the bottom of the screen, or falls a distance greater than his height.  At the default setting, Junior starts with two extra lives and earns one extra life at 7000 points.
+
+* On the Vines stage, there is no one set path to reach the top, but you will invariably have to drop down the vine which is directly beneath the key and cross the treetops in order to scale the right side of the screen.
+
+* The Springboard stage has two possibilities.  You can go the long way and cross the bottom of the screen to the right, climb up the vines and wait on the platform to the left until the long vine on the pulley comes close enough to reach. Or you can attempt to use the springboard as a shortcut.  When Junior is at the lowest point on the board, press jump again to make Junior jump much higher and attempt to land on the floating platform. Either way you go, you will need to jump on the small vine on the pulley and continue up the left side.  Watch the behavior of the Nitpickers before you proceed to the right.
+
+* In Mario's Hideout, Junior must avoid all of the Sparks.  The red Sparks make for an easy target for the fruit, but be careful of the more random timing of the blue Sparks.  In addition to the danger that the Sparks pose at Junior's feet, you must also be careful of Sparks that are passing over Junior's head and be sure not to jump in to them.
+
+* The Cage stage is Junior's ultimate chance to rescue his father.  He must push each key up its chain and in to the lock.  The higher the level, the more red Snap Jaws there will be.  Push the last key in place for an ending before starting over in the Vines stage.
+
+* In the Japanese version, the order of the four stages remains constant.  In the US version, the order of the stages varies from level to level, but they always start with the Vines and end with the Cage.
+
+[Scoring]
+
+Jump 1 opponent                 100
+Jump 2+ opponents               300
+Push key in lock                200
+Pick a fruit                    400
+Hit 1st opponent with fruit     800
+Hit 2nd opponent with fruit    1200
+Hit 3rd+ opponent with fruit   1600

@@ -1,0 +1,40 @@
+[Controls]
+
+(left arrow) - Direct ship left
+(press forward) - Direct ship right
+A - Fire
+
+[Elements]
+
+Ship: This is what you control at the bottom of the screen and what you use to defeat the Galaga fleet.
+
+Blue Galaga: This bee like enemy fills the bottom two rows of the formation at the top of the screen. They will occasionally swoop down to attack your ship directly. Beginning with round 4, a Blue Galaga might divide in to three seperate warriors with a different appearance.
+
+Red Galaga: It looks like a moth and occupies the two rows in the formation beneath the Flagships. They will swoop down and attack the player as well, or they will escort one of the Flagship on a bombing raid.
+
+Flagship: They start out as green birds.  When they are shot once, they turn purple.  It takes a second shot to destroy them.  Like the other Galagas, they can fly down from the formation to attack. Occasionally, they will stop mid- flight and fire a tractor beam at the player.  If the player enters the tractor beam, the Flagship will return to the top of the formation with your stolen ship. You can rescue the stolen ship with another life and have two ships firing side by side.
+
+Transforms: These are the three shapes that a Blue Galaga can transform into when splitting up in to three warriors.  One form resembles a scorpion, one is in the form of a warrior from Bosconian, and the last is the familiar Namco trademark, the Galaxian Flagship. Destroying all three before they disappear will award you bonus points.
+
+[Gameplay]
+
+* The goal of each stage is to destroy every Galaga in the formation at the top of the screen. Every few stages, the player will have a chance to increase the score with bonus stage.
+
+* You will lose a chance every time you collide with a Galaga or are hit by one of their bullets.  It is important to keep in mind that when your ship is picked up by a tractor beam, that also counts as a loss of one life.  At the default settings, you start with two extra lives and you will earn an extra life at 20000, 70000, and every 70000 points there after.
+
+* When the Flagships drop out of formation, there is a chance that it will try to use its tractor beam and pick you up.  You must attempt to rescue your captured ship from the Flagship that stole it.  Be aware that it is possible to accidently shoot your own ship instead of the Flagship that stole it, destroying it in the process. Also, if you destroy the offending Flagship while it is still in formation, you will lose the opportunity to rescue your ship, and your ship will attack you instead.
+
+* If you rescue your stolen ship, the ship will return to your current ship's side and they will fight together.  Having two ships doubles your firepower, but also doubles your vulnerability, as you will be twice as wide.  Having two ships also makes doing well in the bonus stages substantially easier.
+
+* The bonus stages present 40 targets that you must try to destroy.  You are under no threat during the round, and the targets will remain on the screen for a short time and follow a pre- determined path.  You will earn 100 points for each target that you successfully hit, unless you hit every one of them in which case you will earn 10000 points.  You will also recieve a bonus for each wave of targets that you completely destroy.
+
+* While each successive wave gets progressively harder by making the Galagas attack more aggressively and fire more frequently, every 10th round sees the Galagas return to a more calm state as a way to give you, the player, a small break.
+
+[Scoring]
+
+                  Formation   Swoop
+Blue Galaga           50       100
+Red Galaga            80       160
+Flagship             150       400
+Flagship (1 escort)            800
+Flagship (2 escorts)          1600

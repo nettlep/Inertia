@@ -1,0 +1,21 @@
+Dot : 10 points.
+
+Mutated Dot : 50 points.
+
+Powerpill : 50 points.
+
+Ghosts : 200, 400, 800 and 1,600 points.
+
+Cycle : 100 points.
+
+Kite : 200 points.
+
+Drum : 500 points.
+
+Balloon : 700 points.
+
+Train : 1,000 points.
+
+Cat : 2,000 points.
+
+Beer! : 5,000 points.

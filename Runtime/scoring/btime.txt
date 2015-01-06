@@ -1,0 +1,27 @@
+Stacking a burger ingredient : 50 points per ingredient
+
+Crushing Mr. Hot Dog : 100 points
+
+Crushing Mr. Pickle : 200 points
+
+Crushing Mr. Egg : 300 points
+
+Collecting Ice Cream : 500 points
+
+Collecting Coffee : 1,000 points
+
+Collecting Fries : 1,500 points
+
+Dropping Ingredient with 1 enemy on top : 500 points
+
+Dropping Ingredient with 2 enemies on top : 1,000 points
+
+Dropping Ingredient with 3 enemies on top : 2,000 points
+
+Dropping Ingredient with 4 enemies on top : 4,000 points
+
+Dropping Ingredient with 5 enemies on top : 8,000 points
+
+Dropping Ingredient with 6 enemies on top : 16,000 points
+
+and so on...

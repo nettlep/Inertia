@@ -1,0 +1,63 @@
+[Controls]
+
+(left arrow) - Move Dig Dug left
+(press forward) - Move Dig Dug right
+(up arrow) - Move Dig Dug up
+(down arrow) - Move Dig Dug down
+A - Pump
+
+[Elements]
+
+Dig Dug: You play Dig Dug, the hero of the garden clad in white. You must blow up every enemy with you trusty pump.
+
+Pooka: These have best been decribed as goggle wearing tomatoes. When passing through the dirt they appear only as goggles.
+
+Fygar: The green dragons of the underground who can breath fire. When passing through the dirt they appear as a set of evil eyes and a mouth.  When they are about to blow flames, they pause and flash.
+
+Rocks: In addition to your pump weapon, you may also eliminate the enemies by dropping rocks on them. Beware though, as you are equally susceptible to being crushed by having a rock fall on you.
+
+Bonuses: After two rocks have fallen, a bonus vegatable will appear in the center of the screen where you started.  You can pick it up before it disappears for bonus points.
+
+[Gameplay]
+
+* The goal of every stage is to rid the entire screen of Pookas and Fygars.  You have two methods at your disposal: your pump, or the rocks.  You can approach an enemy from any direction and begin to press the pump button.  If you are close enough, the pump will attach and you must pump them with air 4 times before they explode.  You may hold the pump button down, but it is faster to tap the button instead. If you do not continously pump an enemy with air, it will begin to deflate.  While it is inflated, it is immobile and harmless so you may pass through it.
+
+* Alternatively, you can attempt to drop rocks on your enemies by digging the dirt out from under a rock.  Be sure not to remain under- neath the rock, or you will be crushed when it begins to fall. You will be awarded more bonus points for killing more than one enemy with a rock.  If two rocks fall in one stage, a bonus vegatable will appear for a short period of time for you to pick up for points.  The higher the level, the higher the bonus awarded.
+
+* Dig Dug will die if he comes in contact with Pooka or Fygar, or if he is caught in Fygar's fire breath. He will also die if he is crushed underneath a rock.  At the default setting, Dig Dug begins with two extra lives, with the chance to earn more at 20000, 60000, and every 60000 points thereafter.
+
+* Pooka and Fygar will begin each stage in seperate chambers.  After roaming their chambers for a while, they begin to venture out through the dirt until they join Dig Dug's main tunnel and hunt him down.  If only one Pooka or Fygar is left on the screen, it will attempt to escape on the left side of the top of the dirt.  The board will end if that enemy escapes.
+
+* Fygars use their breath weapon to attack Dig Dug from a distance. Whenever they are about to breath fire, they pause and flash before shooting out flames in a horizontal direction.  As a result, blowing up a Fygar from a horizontal direction results in a double score bonus.  An inflated Fygar can not breath fire.
+
+* A Fygar's flame can go through very thin walls of dirt.  However, so can Dig Dug's pump, so you can use the same trick to pump enemies in relative safety.  Be aware that in later stages, more than one enemy can occupy a chamber.  So be careful that when blowing up one enemy in a chamber, the other enemy doesn't pass through and kill you.
+
+* Dig Dug's name is actually Hori Taizou and he is believed to be the father of Mr. Driller.
+
+[Scoring]
+
+Digging a dirt unit              10
+Pump enemy in dirt level 1      200
+Pump enemy in dirt level 2      300
+Pump enemy in dirt level 3      400
+Pump enemy in dirt level 4      500
+Pump Fygar horizontally    x2 bonus
+1 enemy crushed by rock        1000
+2 enemies crushed by rock      2500
+3 enemies crushed by rock      4000
+4 enemies crushed by rock      6000
+5 enemies crushed by rock      8000
+6 enemies crushed by rock     10000
+7 enemies crushed by rock     12000
+8 enemies crushed by rock     15000
+Carrot                          400
+Rutabaga                        600
+Mushroom                        800
+Cucumber                       1000
+Eggplant                       2000
+Bell Pepper                    3000
+Tomato                         4000
+Onion                          5000
+Watermelon                     6000
+Galaxian                       7000
+Pineapple                      8000

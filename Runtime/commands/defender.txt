@@ -1,0 +1,56 @@
+[Controls]
+
+(down arrow) - Lower Ship
+(up arrow) - Raise Ship
+A - Fire
+<img src="img/command/key--b.png" alt="key" /> - Thrust
+<img src="img/command/key--c.png" alt="key" /> - Smart Bomb
+<img src="img/command/key--d.png" alt="key" /> - Hyperspace
+<img src="img/command/key--e.png" alt="key" /> - Reverse
+
+[Elements]
+
+Defender - This the ship that you control and fly across the landscape as you remove the attackers from the sky and rescue any human that is being kidnapped.
+
+Lander - These green creatures float over the land in search of humans to abduct.  When they lock in on one, they descend to the ground, pick up the human, and attempt to escape with it at the top of the screen.
+
+Mutant - This is the result of a Lander who has successfully abducted a human.  Their only goal is your destruction.
+
+Baiter - When you spend too long in any stage, Baiters begin to appear and hunt you down.
+
+Bomber - These ships mindlessly fly through the sky and leave mines behind them which are harmful to your ship.
+
+Pod - These ships fly about and fire at you. When they are shot, they immediately break apart in to several Swarmers.
+
+Swarmers - These are very fast and small vessels that appear when a Pod is destroyed. They attempt to ram your ship or shoot it down.
+
+Humans - At the start of the game, and every fifth wave, you begin with 10 humans walking among the mountainous regions of the planet, helpless watching the battle scene in the sky and getting abducted by Landers.
+
+[Gameplay]
+
+* The goal of each stage is to clear the entire area of enemies and defend as many of the humans on the ground as possible.  When you successfully clear an area, you will be awarded bonus points in the amount of 100 for every human alive multiplied by the wave, with a maximum multiple of 5.
+
+* You will lose one life for running in to any alien or any of their bullets.  At the default settings, you begin the game with two extra lives and three smart bombs.  You will earn one extra life and one more smart bomb for every 10000 points that you receive.
+
+* In addition to flying and firing, you ship also has smart bombs and hyperspace capability. By pressing the smart bomb button, you instantly destroy every enemy on the screen. Pressing hyperspace causes your ship to warp to a random location around the world. It is possible to be destroyed when coming out of hyperspace so use it conservatively.
+
+* No matter where you are, you can track the action across the world with the scanner at the top of the screen.  As you fly left and right, the action on the screen is always at the center of the scanner.
+
+* Landers will slowly drop from the sky to the ground in search of a human to abduct.  When it finds one, it stops moving forward and drops down to tractor beam the human off of the ground.  At this point you will hear the human scream, signaling you to find it and save it.  You must shoot the Lander and not the human.  If you hit the Lander, the human will begin free falling to the ground.  You must swoop in and collect it before it hits the ground and dies.  At that point you can simply fly down to the ground to deposit the human for more points.  If the Lander is destroyed only a short distance from the ground, the human can survive the fall.
+
+* If a Lander succeeds in abducting a human and dragging it to the top of the screen, the Lander and the human fuse in to a Mutant. The Mutants simply hunt you down and try to destroy your ship.  If EVERY human is abducted by Landers, the world goes in to apocolypse phase where all landers become mutants.  This will continue until the human count is reset on every 5th level.
+
+* The remaining threats, including Bombers, Pods, Swarmers, and Baiters, are there to make your job difficult.  One method to ensure that Swarmers don't bother you is to use a Smart Bomb when you destroy a Pod.  There is an invisible line which Swarmers can not pass. If you fly beyond that line, Swarmers will turn around and fly across the world to reach you.  There is also another invisible line for Baiters.
+
+* Defender is still one of the most difficult games to master the controls of. Some experts recommend pressing Thrust and Fire together and keeping another finger on Reverse.  Staying in one place and letting the enemies come to you is not recommended since you will usually fail to rescue any humans in time.  If you are being tailed by a Swarmer, Mutant, or Baiter, pressing Reverse a couple of times is usually enough to confuse them and throw them off your trail.
+
+[Scoring]
+
+Lander            150
+Mutant            150
+Swarmer           150
+Baiter            200
+Bomber            250
+Pod              1000
+Rescued Human     500
+Returned Human    500

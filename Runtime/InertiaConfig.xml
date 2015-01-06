@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Windowed>true</Windowed>
+  <Resolution Width="0" Height="0" />
+  <ScreenRotationDegrees>0</ScreenRotationDegrees>
+  <MonitorAspect>1.6</MonitorAspect>
+  <BackgroundColor A="255" R="0" G="0" B="0" />
+  <TitleFont FamilyName="Arial Narrow" Size="18" Style="Bold" />
+  <TitleFontColor A="255" R="160" G="160" B="160" />
+  <GameInfoFont FamilyName="Lucida Console" Size="16" Style="Regular" />
+  <GameInfoFontColor A="255" R="50" G="205" B="50" />
+  <GameInfoBackgroundColor A="255" R="32" G="42" B="32" />
+  <CameraPosition X="0" Y="255" Z="-300" />
+  <CameraTarget X="0" Y="135" Z="0" />
+  <PanelFolders>
+    <string>snap</string>
+    <string>cabinets</string>
+    <string>cpanel</string>
+    <string>scoring</string>
+    <string>commands</string>
+  </PanelFolders>
+  <PanelBorderColor A="255" R="32" G="32" B="32" />
+  <PanelTopHeight>2</PanelTopHeight>
+  <PanelBorderSize>3</PanelBorderSize>
+  <ImageMargin>10</ImageMargin>
+  <ImageBorderColor A="255" R="32" G="32" B="32" />
+  <ImageBorderThickness>2</ImageBorderThickness>
+  <PanelMinSize Width="300" Height="195" />
+  <PanelMaxSize Width="300" Height="195" />
+  <DepthFogDensity>0.003</DepthFogDensity>
+  <PlaneReflectionFogDensity>0.06</PlaneReflectionFogDensity>
+  <PlaneReflectionPower>0.9</PlaneReflectionPower>
+  <ReflectionMapAlpha>0.8</ReflectionMapAlpha>
+  <MameXmlFile>mame.xml</MameXmlFile>
+  <MAMEParms>-rotate</MAMEParms>
+  <EnableVideoWriteOnCoin>false</EnableVideoWriteOnCoin>
+  <VideoDemoDelay>10</VideoDemoDelay>
+  <TextPanelResolution Width="512" Height="512" />
+</Settings>

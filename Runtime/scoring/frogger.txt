@@ -1,0 +1,11 @@
+Forward Hop : 10 points (max points per home is 100)
+
+Frog Safely Put in Home : 50 points
+
+Completing a Level : 1000 points
+
+Bringing a Frog to Your Home : 200 points
+
+Eating a Fly : 200 points
+
+You also get a time bonus of 10 x the remaining seconds added to your score.

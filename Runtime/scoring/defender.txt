@@ -1,0 +1,28 @@
+Lander : 150 points.
+
+Mutant : 150 points.
+
+Baiter : 200 points.
+
+Bomber : 250 points.
+
+Pod : 1000 points.
+
+Swarmer : 150 points.
+
+Completely destroying a pod with a smart bomb : 1600, 1750, 1900, or 2050 points.
+
+Getting hit by an enemy bullet : 25 points.
+
+Saving a humanoid from a Lander : 500 points.
+
+Depositing a humanoid into the ground : 500 points.
+
+Humanoid landing into the ground safely on his own : 250 points.
+
+Bonus at the end of each wave :
+Wave 1 : Humanoids Left X 100.
+Wave 2 : Humanoids Left X 200.
+Wave 3 : Humanoids Left X 300.
+Wave 4 : Humanoids Left X 400.
+Wave 5 and above : Humanoids Left X 500.

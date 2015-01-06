@@ -1,0 +1,59 @@
+[Controls]
+
+(up arrow) - Direct Pac-Man up
+(left arrow) - Direct Pac-Man left
+(press forward) - Direct Pac-Man right
+(down arrow) - Direct Pac-Man down
+
+[Elements]
+
+Pac-Man: One of the most recognized icons in video game history, you guide the yellow mouth around the maze in order to eat the dots and avoid the ghosts
+
+Blinky/Shadow: The red ghost which follows you more closely than any of the other ghosts.
+
+Pinky/Speedy: The pink ghost tries to second guess which way you will go and trap you.
+
+Inky/Bashful: The aqua ghost will often run away if he is charged at by Pac-Man
+
+Clyde/Pokey: The orange ghost who does his own thing in the maze.
+
+Power Pills: The large energizer dots in that start in the four corners of the maze that allow the player to temporarily chase and eat the ghosts until they begin to flash and turn back to normal.
+
+Bonuses: The prizes that appear in the center of the maze which you can eat for bonus points.  Check Scoring for a complete list.
+
+Tunnel: By going through one end of the tunnel, the player can cross over to the other side of the screen.  Any ghost who chases the player in to the tunnel will move at half speed.
+
+[Gameplay]
+
+* The goal is simple: eat all of the dots on the screen, and avoid getting caught by the four ghosts.
+
+* Pac-Man loses one life whenever a ghost catches him.  At the default setting you start with two extra lives and you will get one extra life for reaching 10000 points.
+
+* Four Power Pills are on every screen and allow the player to turn the tables on the ghosts and eat them for a short time.  When the ghosts begin to flash, time is running out and they will switch back so beware.
+
+* The Tunnel is a great way to put some space between you and any ghosts that are on you tail since they can only move half as fast as you when they are in it.
+
+* Each level is indicated by a bonus item, which appear twice per level for 8 seconds and can be eaten for bonus points.  The higher the level, the more points they are worth, but the ghosts will move faster, and the time they remain blue for becomes shorter.
+
+* The last bonus item is the key. Once you reach the ninth key, the difficulty will no longer increase and every board the follows will be exactly the same.
+
+* Watch the behavior of the ghosts as they follow basic patterns that you can manipulate to your advantage.  Two times per level the ghosts will return to the quadrant of the maze that they are in charge of patrolling.  This is a good time to get any difficult dots.
+
+* You are treated to an entertaining intermission after the 2nd, 5th, and 9th boards and every 4th board thereafter.
+
+[Scoring]
+
+Dots:             10
+Power Pills:      50
+1st Blue Ghost:  200
+2nd Blue Ghost:  400
+3rd Blue Ghost:  800
+4th Blue Ghost: 1600
+Cherry:          100
+Strawberry:      300
+Peach:           500
+Apple:           700
+Grapes:         1000
+Galaxian:       2000
+Bell:           3000
+Key:            5000

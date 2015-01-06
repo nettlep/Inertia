@@ -1,0 +1,43 @@
+* Jumping over Barrels, Beams, Fireballs, Cement Pies, or Firefoxes
+
+1 item jumped : 100 points
+
+2 items jumped : 300 points
+
+3 or more items jumped : 500 points
+
+* Due to a bug in the program, jumping 3 or more items displays onscreen 800 points but actually awards only 500 points.
+
+* Sometimes jumping over one or more objects scores no points.
+
+* Sometimes scoring can occur when objects are next to or behind the player when jumping (especially the Springs on the Elevator Stage).
+
+* Destroying objects with the hammer
+
+Barrels : 300 points
+
+Beams, Fireballs, Cement Pies, and Firefoxes : 300, 500 or 800 points
+
+* Picking up the purse, hat, or umbrella
+
+Level 01 : 300 points
+
+Level 02 : 500 points
+
+Level 03 and above : 800 points
+
+Running over a rivet : 100 points
+
+Jumping close to Kong on Rivet Stage : 100 points
+
+When each level is completed, the player receives the points shown in the bonus box.
+
+* Starting bonus points
+
+Level 01 : 5000 points
+Level 02 : 6000 points
+Level 03 : 7000 points
+Level 04 through Level 21 : 8000 points
+Level 22 (kill screen) : 4000 points
+
+* The timer on level 22 behaves strangely. When the stage first comes onscreen, the timer reads 100. Then it changes to 4000 when Mario appears. It then counts down to 3700 and stays there for a few seconds, then Mario dies for no apparent reason, presumably due to a bug in the games timer code.

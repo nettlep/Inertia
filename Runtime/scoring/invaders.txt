@@ -1,0 +1,7 @@
+Large Invader : 10 points.
+
+Medium Invader : 20 points.
+
+Small Invader : 30 points.
+
+UFO : 50 to 300 points.

@@ -1,0 +1,41 @@
+Scoring in this game is relatively complicated due the dirt layer a monster is at and also how you kill said monster. In addition, you even get points for 'eating' dirt.
+
+* Over-inflating (bursting) monsters
+
+Layer 1 : Pooka - 200 Points
+Layer 1 : Fygar - 400 Points
+Layer 2 : Pooka - 300 Points
+Layer 2 : Fygar - 600 Points
+Layer 3 : Pooka - 400 Points
+Layer 3 : Fygar - 800 Points
+Layer 4 : Pooka - 500 Points
+Layer 4 : Fygar - 1000 Points
+
+NOTE : If you over-inflate a Fygar vertically, you only will get 1/2 the listed points (same points as a Pooka on that layer). This is due to the fact you aren't risking your life dealing with Fygar's flame breath.
+
+* Dropping rocks on monsters
+
+1 Crushed : 1000 Points
+2 Crushed : 2500 Points
+3 Crushed : 4000 Points
+4 Crushed : 6000 Points
+5 Crushed : 8000 Points
+6 Crushed : 10000 Points
+7 Crushed : 12000 Points
+8 Crushed : 15000 Points
+
+* You get points for collecting the prizes
+
+Round 1 - Carrot : 400 Points
+Round 2 - Rutabaga : 600 Points
+Round 3 - Mushroom : 800 Points
+Round 4 & 5 - Cucumber : 1000 Points
+Round 6 & 7 - Eggplant : 2000 Points
+Round 8 & 9 - Bell Pepper : 3000 Points
+Round 10 & 11 - Tomato : 4000 Points
+Round 12 & 13 - Onion : 5000 Points
+Round 14 & 15 - Watermelon : 6000 Points
+Round 16 & 17 - Galaxian : 7000 Points
+Round 18 and + - Pineapple : 8000 Points
+
+When you are digging a new tunnel, you get 10 points per 5/8 inch dug.
